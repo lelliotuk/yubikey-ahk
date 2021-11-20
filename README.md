@@ -14,6 +14,8 @@ And this AHK script:
 https://raw.githubusercontent.com/cocobelgica/AutoHotkey-Util/master/StdOutToVar.ahk
 
 ## Usage
+Script starts with no tray icon and Ctrl+Win+Alt+Num0 to exit
+
 `Otp(account)` - Prompts touch and returns OTP code for the account
 
 `Otp(account, true)` - Prompts touch and returns OTP code with newline (enter)
